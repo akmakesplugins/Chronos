@@ -1,0 +1,107 @@
+# ---------------------------------------------------------------------------
+# Build output
+# ---------------------------------------------------------------------------
+build/
+build-*/
+cmake-build-*/
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+
+# CMake droppings, in case anyone configures in-source
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+.cmake/
+
+# ---------------------------------------------------------------------------
+# Compiled artefacts
+# ---------------------------------------------------------------------------
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.d
+*.gch
+*.pch
+*.ilk
+*.pdb
+*.exp
+
+# Plugin bundles, if an adapter is ever built in place
+*.vst3/
+*.component/
+*.aaxplugin/
+*.app/
+
+# ---------------------------------------------------------------------------
+# QA harness — renders, scoreboards and plots are all regenerated. A full corpus
+# run is several gigabytes of audio; none of it belongs in the repo.
+# ---------------------------------------------------------------------------
+qa/out/
+qa/listening_pack/
+*.wav
+*.aif
+*.aiff
+*.flac
+
+# ---------------------------------------------------------------------------
+# Python (QA scripts only — never a build or runtime dependency)
+# ---------------------------------------------------------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---------------------------------------------------------------------------
+# Editors and IDEs
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+.vs/
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.swp
+*.swo
+*~
+.clangd/
+.cache/
+
+# ---------------------------------------------------------------------------
+# OS
+# ---------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+
+# ---------------------------------------------------------------------------
+# Profiling / sanitizers
+# ---------------------------------------------------------------------------
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+perf.data*
+callgrind.out.*
