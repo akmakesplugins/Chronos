@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — StretchParameters.h
 //
 // The complete, plain-old-data description of *what* the engine should do to the

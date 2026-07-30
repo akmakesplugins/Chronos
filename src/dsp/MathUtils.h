@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — dsp/MathUtils.h
 //
 // Small, header-only numeric helpers used across the DSP core. Kept tiny and

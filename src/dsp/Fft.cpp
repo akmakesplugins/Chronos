@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — dsp/Fft.cpp
 
 #include "Fft.h"

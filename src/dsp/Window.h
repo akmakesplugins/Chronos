@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — dsp/Window.h
 //
 // Analysis/synthesis window functions for the STFT. The phase vocoder applies a

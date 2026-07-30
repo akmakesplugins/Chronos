@@ -6,7 +6,7 @@ with the refinements that separate a professional stretcher from a textbook one:
 stereo-coherent phase advance, transient preservation, noise-aware reconstruction,
 and formant control.
 
-Built at Pitch Innovations as an in-house alternative to zplane élastique Pro.
+Built at ZROLogic as an in-house alternative to zplane élastique Pro.
 Across a 44-case corpus of commercial loops it **reaches or beats élastique on six
 of eight objective measures**, with the remaining two documented plainly below.
 
@@ -148,4 +148,4 @@ Matplotlib; these are development-time only.
 
 ## License
 
-Proprietary — Pitch Innovations. See [LICENSE.md](LICENSE.md).
+Proprietary — ZROLogic. See [LICENSE.md](LICENSE.md).

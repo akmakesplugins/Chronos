@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — adapters/juce/ChronosJuceStretcher.h
 //
 // A thin JUCE glue layer over chronos::TimeStretcher. It is header-only and lives

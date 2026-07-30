@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — dsp/Fft.h
 //
 // A self-contained radix-2 complex FFT plus a real-signal convenience wrapper.

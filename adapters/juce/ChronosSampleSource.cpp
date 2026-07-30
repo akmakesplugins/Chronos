@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 #include "ChronosSampleSource.h"
 
 static float semitonesToRatio (float semitonesUp) noexcept

@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — a modular, real-time audio time-stretching and pitch-shifting engine.
 //
 // Types.h — fundamental value types and stream configuration shared across the

@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — analysis/TransientDetector.cpp
 
 #include "TransientDetector.h"

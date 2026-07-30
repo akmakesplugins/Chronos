@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — dsp/AudioFifo.cpp
 
 #include "AudioFifo.h"

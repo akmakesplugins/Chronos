@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — TimeStretcher.h
 //
 // The public facade. It presents a small, stable, framework-agnostic API and hides

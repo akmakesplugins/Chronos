@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — engine/PhaseVocoderEngine.h
 //
 // The high-quality, frequency-domain time-stretch engine. It is a phase vocoder

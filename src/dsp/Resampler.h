@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — dsp/Resampler.h
 //
 // A streaming fractional resampler. Pitch shifting in Chronos is realised as

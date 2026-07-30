@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — Chronos.h
 //
 // Umbrella header for the public API. Include this to use the library:

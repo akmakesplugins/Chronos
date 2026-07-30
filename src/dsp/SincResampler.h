@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — dsp/SincResampler.h
 //
 // A streaming polyphase windowed-sinc fractional resampler — the high-quality

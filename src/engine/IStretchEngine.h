@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — engine/IStretchEngine.h
 //
 // The strategy interface every time-stretch algorithm implements. The facade

@@ -1,10 +1,9 @@
 # License
 
-Copyright © 2026 Pitch Innovations. All rights reserved.
+Copyright © 2026 ZROLogic. All rights reserved.
 
-Chronos is proprietary, internal software of Pitch Innovations. It may not be
-copied, distributed, sublicensed, or disclosed outside Pitch Innovations without
-prior written permission.
+Chronos is proprietary software of ZROLogic. It may not be copied, distributed,
+sublicensed, or disclosed outside ZROLogic without prior written permission.
 
 ## Third-party code
 

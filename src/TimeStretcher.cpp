@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — TimeStretcher.cpp
 //
 // The facade implementation. See TimeStretcher.h for the design overview. The data

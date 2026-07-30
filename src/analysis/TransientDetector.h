@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — analysis/TransientDetector.h
 //
 // Spectral-flux onset detector. It consumes the magnitude spectra that the phase

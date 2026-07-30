@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — engine/WsolaEngine.h
 //
 // Waveform-Similarity Overlap-Add: a time-domain time-stretcher. For each output

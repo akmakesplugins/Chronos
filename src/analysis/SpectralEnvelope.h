@@ -1,3 +1,4 @@
+// Copyright (c) 2026 ZROLogic. All rights reserved. Proprietary and confidential.
 // Chronos — analysis/SpectralEnvelope.h
 //
 // Cepstral spectral-envelope estimator. The envelope is the slowly-varying shape
